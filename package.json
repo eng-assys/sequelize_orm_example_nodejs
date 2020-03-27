@@ -1,0 +1,24 @@
+{
+  "name": "sequelize_orm_example",
+  "version": "1.0.0",
+  "description": "O Sequelize é um ORM (Object-Relational Mapper) para Node.js, que tem suporte aos seguintes bancos de dados:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^7.18.2",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "sequelize-cli": "^5.5.1"
+  }
+}
