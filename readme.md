@@ -20,3 +20,9 @@ Ele permite criar, buscar, alterar e remover dados do banco de dados utilizando 
 
 * npx sequelize migration:create --name=create-users
 * npx sequelize db:migrate
+
+## Links uteis
+
+* https://sequelize.org/v5/
+* https://sequelize.org/master/manual/model-querying-finders.html
+* https://sequelize.org/master/manual/migrations.html#the-sequelizerc-file
